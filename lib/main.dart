@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Piano Tiles test',
+      title: 'Piano Tiles test feature',
       home: MovingContainer(),
     );
   }
